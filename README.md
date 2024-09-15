@@ -1,3 +1,4 @@
- hi.
-Type one of these options to see what I wrote.~                                                                                Wre thing.txt                                                                           
-Dance upon the stars.txt
+hi.
+Type one of these options to see what I wrote.~                                                                                
+1.- Wre thing.txt                                                                           
+2.- Dance upon the stars.txt
